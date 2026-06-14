@@ -7,9 +7,9 @@ Fecha de elaboración: 14 de junio de 2026
 
 ## Resumen
 
-Este documento resuelve las dos partes del trabajo final de Diseño de Interfaces de Usuario. La primera parte recoge una autoevaluación razonada de la experiencia adquirida durante la asignatura a partir del proyecto PogoRamen y de las prácticas desarrolladas. La segunda parte aplica esa experiencia a un caso real: el diseño de una propuesta de valor para el ECO MERCADO UGR, tomando como referencia iniciativas existentes de mercado ecológico y consumo de proximidad.
+Este documento resuelve las dos partes del trabajo final de Diseño de Interfaces de Usuario. La primera parte recoge una autoevaluación razonada de la experiencia adquirida durante la asignatura a partir del proyecto PogoRamen, las prácticas realizadas y actividades complementarias de evaluación y prototipado. La segunda parte aplica esa experiencia a un caso real: el diseño de una propuesta de valor para el ECO MERCADO UGR, tomando como referencia iniciativas existentes de mercado ecológico y consumo de proximidad.
 
-La entrega se apoya en los materiales ya documentados en el repositorio: investigación de usuarios, análisis competitivo, personas, journey maps, wireframes, diseño visual, mockups, pruebas de evaluación, SUS, A/B testing y conclusiones. Como resultado adicional de la Parte II se incluye un boceto navegable en HTML: [`mockups/ecomercado-ugr-web.html`](mockups/ecomercado-ugr-web.html).
+La entrega se apoya en los materiales ya documentados en el repositorio de prácticas: investigación de usuarios, análisis competitivo, personas, journey maps, wireframes, diseño visual, pruebas de evaluación, SUS, A/B testing y conclusiones. Como resultado adicional de la Parte II se incluye un mockup web realizado con Figma Make y publicado como prototipo navegable: https://plot-willow-59471282.figma.site.
 
 ## Parte I: Mi experiencia UX
 
@@ -24,6 +24,8 @@ El análisis competitivo también me ayudó a entender mejor el concepto de benc
 La creación de personas y journey maps fue otro aprendizaje central. Las personas ficticias, como Alex y Manuel, sirvieron para representar necesidades distintas: usuarios jóvenes con afinidad por la cultura pop, usuarios que buscan rapidez, personas que pueden sentirse atraídas por la estética, pero también usuarios que necesitan orientación y seguridad durante el proceso. El journey map nos obligó a pensar en emociones, expectativas y momentos de fricción, no solo en pantallas. Esta práctica mejoró mi capacidad para imaginar el producto como una secuencia de decisiones del usuario. Por ejemplo, una pantalla de inicio atractiva no es suficiente si luego el usuario no sabe cómo volver atrás, dónde revisar su pedido o qué ingredientes ha seleccionado.
 
 En la revisión de usabilidad se produjo uno de los aprendizajes más prácticos. La valoración obtenida, 56 en nivel moderado, hizo visible que una interfaz puede tener buenas ideas y aun así necesitar mejoras objetivas. Entre los problemas detectados estaban la falta de formularios, la ausencia de buscador, la poca ayuda contextual, mensajes de error insuficientes, problemas de contraste y navegación mejorable. Esta parte me enseñó que la evaluación no debe entenderse como una crítica negativa, sino como una herramienta para priorizar. La usabilidad deja de ser una opinión cuando se transforma en criterios observables: legibilidad, feedback, control del usuario, prevención de errores, consistencia y facilidad de recuperación.
+
+También considero relevantes las actividades de clase centradas en evaluación y prototipado. En la actividad de Heurio pude trabajar una revisión heurística colaborativa, identificando problemas de usabilidad sobre una interfaz real y formulando comentarios accionables en lugar de opiniones generales: https://heurio.app/project/UEwybjBxdGVRMXBYZWNRZ3pmQXJrUT09. Además, la actividad 6 me permitió practicar una entrega más visual e interactiva mediante Figma Make, publicada como web navegable en https://santa-waffle-55473951.figma.site. Estas experiencias complementan el proyecto PogoRamen porque refuerzan dos competencias distintas: evaluar con criterio experto y comunicar soluciones mediante prototipos compartibles.
 
 En la fase de ideación y reframing aprendí a traducir problemas en oportunidades. El feedback capture grid y el empathy map nos ayudaron a reformular el reto: no queríamos "hacer otro restaurante anime", sino diseñar una experiencia gastronómica temática que fuera inmersiva, comprensible, personalizada y fácil de usar. Esa reformulación fue importante porque cambió el foco desde el producto hacia la experiencia. El usuario no solo compra comida; busca una actividad social, visualmente compartible y coherente con una identidad cultural. Al mismo tiempo, necesita información clara sobre ingredientes, alérgenos, precio y estado del pedido.
 
@@ -163,7 +165,7 @@ Se propone una pantalla inicial móvil primero con cuatro bloques:
 3. Lista filtrable de puestos con categoría, origen y producto destacado.
 4. Bloque de guía responsable y participación.
 
-El mockup HTML está incluido en [`mockups/ecomercado-ugr-web.html`](mockups/ecomercado-ugr-web.html). No pretende ser un producto final, sino un boceto funcional que muestra jerarquía, contenido y flujo principal.
+El mockup de la propuesta se ha realizado con Figma Make y está publicado como prototipo web navegable en https://plot-willow-59471282.figma.site. No pretende ser un producto final, sino un boceto funcional que muestra jerarquía, contenido y flujo principal de forma más visual y evaluable que una maqueta estática.
 
 ### 11. Evaluación esperada
 
@@ -213,3 +215,6 @@ La propuesta final se centra en claridad, movilidad y confianza: mostrar el pró
 - [Jornada inaugural del Ecomercado UGR - Impronta Granada](https://improntagranada.es/evento/jornada-inaugural-del-ecomercado-ugr/), consultado el 14 de junio de 2026.
 - [El Ecomercado UGR celebra una nueva edición el 28 de mayo - Impronta Granada](https://improntagranada.es/novedades/el-ecomercado-ugr-celebra-una-nueva-edicion-el-28-de-mayo-con-productores-locales-comercio-justo-y-actividades-abiertas/), consultado el 14 de junio de 2026.
 - Materiales propios del repositorio [`Mercenari23/UX_CaseStudy`](https://github.com/Mercenari23/UX_CaseStudy.git).
+- Mockup ECO MERCADO UGR creado con Figma Make: https://plot-willow-59471282.figma.site.
+- Actividad 6 creada con Figma Make: https://santa-waffle-55473951.figma.site.
+- Actividad de evaluación heurística en Heurio: https://heurio.app/project/UEwybjBxdGVRMXBYZWNRZ3pmQXJrUT09.
