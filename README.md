@@ -14,6 +14,7 @@ Repositorio de entrega final de Diseño de Interfaces de Usuario.
 
 - Actividad de evaluacion heuristica en Heurio: https://heurio.app/project/UEwybjBxdGVRMXBYZWNRZ3pmQXJrUT09
 - Actividad 6 hecha con Figma Make: https://santa-waffle-55473951.figma.site
+- Actividades de clase analizadas en la autoevaluacion: moodboard, usabilidad, accesibilidad/WCAG, microinteraccion y Shop6/UrbanPulse.
 
 ## Material base
 
