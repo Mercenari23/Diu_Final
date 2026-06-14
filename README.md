@@ -7,8 +7,13 @@ Repositorio de entrega final de Diseño de Interfaces de Usuario.
 - [`Trabajo_Final_DIU26.md`](Trabajo_Final_DIU26.md): informe final con las dos partes exigidas por el enunciado.
   - Parte I: experiencia personal UX, autoevaluacion y aprendizajes de las practicas.
   - Parte II: caso de estudio ECO MERCADO UGR, analisis de referentes, insights y propuesta de diseno.
-- [`mockups/ecomercado-ugr-web.html`](mockups/ecomercado-ugr-web.html): boceto HTML responsive de la propuesta web para ECO MERCADO UGR.
+- Mockup UX ECO MERCADO UGR hecho con Figma Make: https://plot-willow-59471282.figma.site
 - [`docs/DIU26_TrabajoFinal_enunciado.md`](docs/DIU26_TrabajoFinal_enunciado.md): enunciado del PDF convertido a Markdown para consulta.
+
+## Evidencias complementarias
+
+- Actividad de evaluacion heuristica en Heurio: https://heurio.app/project/UEwybjBxdGVRMXBYZWNRZ3pmQXJrUT09
+- Actividad 6 hecha con Figma Make: https://santa-waffle-55473951.figma.site
 
 ## Material base
 
