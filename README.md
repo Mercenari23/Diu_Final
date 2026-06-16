@@ -22,7 +22,6 @@ El trabajo se apoya en el case study de practicas desarrollado durante la asigna
 
 - https://github.com/Mercenari23/UX_CaseStudy.git
 
-No se ha modificado ese repositorio original. Esta entrega se publica de forma independiente en `Mercenari23/Diu_Final`.
 
 ## Fuentes externas consultadas
 
